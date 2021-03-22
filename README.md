@@ -21,10 +21,6 @@
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namnyang&langs_count=100&theme=gotham&layout=compact&bg_color=0D1117" alt="top Language">
 
 ## Links
-+ [Discord](https://discord.com/users/690148325604720660)
-+ [Email](mailto:namnyang0510@gmail.com)
-+ [Web](https://namnyang.live)
-
-+ [DISCORD](https://discord.com/users/690148325604720660)
-+ [EMAIL](mailto:namnyang0510@gmail.com)
-+ [WEB](https://namnyang.live)
+- [Discord](https://discord.com/users/690148325604720660)
+- [Email](mailto:namnyang0510@gmail.com)
+- [Web](https://namnyang.live)
