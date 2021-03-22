@@ -10,7 +10,7 @@
   </p>
 </p>
 
-### Github Status
+## Github Status
 ![github Status](https://github-readme-stats.vercel.app/api?username=namnyang&show_icons=true&count_private=true&theme=gotham)
 ![top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=namnyang&layout=compact&langs_count=100&theme=gotham)
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=namnyang&theme=gotham)
