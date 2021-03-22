@@ -41,7 +41,7 @@
 <h3 align="center"> 🎉 ME 🎉 </h3>
 
 <p align="center">
-  <a href="https://discord.com/users/690148325604720660"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logoColor=white&logo=Discord" alt="Discord"/></a>
-  <a href="mailto:namnyang0510@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoColor=white&logo=CSS3" alt="Gmail"/></a>
-  <a href="https://namnyang.live"><img src="https://img.shields.io/badge/Web-4285F4?style=flat-square&logoColor=white&logo=Google-Chrome" alt="web"/>
+  <a href="https://discord.com/users/690148325604720660"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logoColor=white&logo=Discord" alt="Discord"/></a>
+  <a href="mailto:namnyang0510@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logoColor=white&logo=CSS3" alt="Gmail"/></a>
+  <a href="https://namnyang.live"><img src="https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logoColor=white&logo=Google-Chrome" alt="web"/>
 </p>
