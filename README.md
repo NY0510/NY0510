@@ -9,7 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=appveyor&logo=Python" alt="python"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logoColor=white&logo=Python" alt="python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logoColor=white&logo=Java" alt="java"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logoColor=white&logo=HTML5" alt="html"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logoColor=white&logo=CSS3" alt="css"/>
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logoColor=white&logo=JavaScript" alt="js"/>
 </p>
 
 <p align="center">
