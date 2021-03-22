@@ -9,8 +9,8 @@
 </p
 
 <p align="center">
-  <img alt="python" src="http://img.shields.io/badge/Python?style=flat-square&logo=Python" />
-</p
+  <img src="https://img.shields.io/badge/Python-darkblue?style=flat-square&logo=Python"  alt="python"/>
+</p>
 
 <p align="center">
   <a href="/README_KR.md">한국어</a>
