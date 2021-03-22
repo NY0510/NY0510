@@ -11,11 +11,11 @@
 </p>
 
 ## Github Status
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=namnyang&show_icons=true&count_private=true&theme=gotham" / alt="github Status">
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=namnyang&show_icons=true&count_private=true&theme=gotham" alt="github Status">
 
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=namnyang&theme=gotham" / alt="wakatime stats">
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=namnyang&theme=gotham" alt="wakatime stats">
 
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namnyang&layout=compact&langs_count=100&theme=gotham" / alt="top Language">
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namnyang&layout=compact&langs_count=100&theme=gotham" alt="top Language">
 
 ## 링크
 + [디스코드](https://discord.com/users/690148325604720660)
