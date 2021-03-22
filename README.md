@@ -2,12 +2,20 @@
   <img width="100px" src="https://namnyang.live/assets/img/sample/d.png" align="center" alt="namnyang" />
   <h2 align="center">Hi there 🎉</h2>
   <p align="center">Welcome to namnyang's Github!</p>
-  
-  <p align="center">
-    <a href="/README_KR.md">한국어</a>
+</p>
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamnyang&count_bg=%230A95FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false" alt="hits"/>
+</p
+
+<p align="center">
+  <img alt="python" src="http://img.shields.io/badge/Python?style=flat-square&logo=Python" />
+</p
+
+<p align="center">
+  <a href="/README_KR.md">한국어</a>
     &nbsp;·&nbsp;
-    <a href="/README.md">English</a>
-  </p>
+  <a href="/README.md">English</a>
 </p>
 
 ## Status
