@@ -31,12 +31,10 @@
 <h3 align="center"> ❕ Status ❕ </h3>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=namnyang&show_icons=true&count_private=true&theme=gotham&bg_color=0D1117">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=namnyang&theme=gotham&bg_color=0D1117">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namnyang&langs_count=100&theme=gotham&layout=compact&bg_color=0D1117">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=namnyang&show_icons=true&count_private=true&theme=gotham&bg_color=0D1117"><br>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=namnyang&theme=gotham&bg_color=0D1117"><br>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namnyang&langs_count=100&theme=gotham&layout=compact&bg_color=0D1117"><br>
 </p>
-
-
 
 ## Links
 - [Discord](https://discord.com/users/690148325604720660)
