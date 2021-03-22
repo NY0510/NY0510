@@ -6,10 +6,10 @@
 
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamnyang&count_bg=%230A95FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false" alt="hits"/>
-</p
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-darkblue?style=flat-square&logo=Python"  alt="python"/>
+  <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=appveyor&logo=Python" alt="python"/>
 </p>
 
 <p align="center">
