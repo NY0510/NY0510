@@ -11,9 +11,9 @@
 </p>
 
 ## Github Status
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=namnyang&show_icons=true&count_private=true&theme=gotham&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117" alt="github Status">
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=namnyang&theme=gotham&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117" alt="wakatime stats">
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namnyang&langs_count=100&theme=gotham&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117" alt="top Language">
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=namnyang&show_icons=true&count_private=true&theme=gotham&title_color=fff&icon_color=79ff97&text_color=c7c7c7&bg_color=0D1117" alt="github Status">
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=namnyang&theme=gotham&title_color=fff&icon_color=79ff97&text_color=c7c7c7&bg_color=0D1117" alt="wakatime stats">
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namnyang&langs_count=100&theme=gotham&layout=compact&title_color=fff&icon_color=79ff97&text_color=c7c7c7&bg_color=0D1117" alt="top Language">
 
 ## 링크
 + [디스코드](https://discord.com/users/690148325604720660)
