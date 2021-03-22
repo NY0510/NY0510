@@ -1,7 +1,7 @@
 <p align="center">
   <img width="100px" src="https://namnyang.live/assets/img/sample/d.png" align="center" alt="namnyang" />
-  <h1 align="center">Hi there 🎉</h2>
-  <p align="center">namnyang's github</p>
+  <h2 align="center">Hi there 🎉</h2>
+  <p align="center">Welcome to namnyang's Github!</p>
   
   <p align="center">
     <a href="/README_KR.md">한국어</a>
