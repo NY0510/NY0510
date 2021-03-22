@@ -1,7 +1,9 @@
+<div style="border-radius: 70%; overflow: hidden;">
+  <img width="100px" src="https://avatars.githubusercontent.com/u/74480667?s=460&u=f15d6dbde5b6dc274ff3a69886ffc17dbdde5852&v=4" align="center" alt="GitHub Readme Stats" />
+</div>
 <p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/74480667?s=460&u=f15d6dbde5b6dc274ff3a69886ffc17dbdde5852&v=4" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">동적으로 생성되는 Github 사용량 통계를 여러분의 README 에 추가해보세요!</p>
+  <h2 align="center">GitHub Readme Stats</h2>
+  <p align="center">동적으로 생성되는 Github 사용량 통계를 여러분의 README 에 추가해보세요!</p>
 </p>
 
 ### Hi there 🎉
