@@ -1,6 +1,8 @@
 ### Hi there 🎉
 
 ## 깃허브 정보
+  <img style="border: 0; " align="center" src="https://github-readme-stats.vercel.app/api?username=namnyang&show_icons=true&count_private=true&theme=gotham" />
+
 ![rldnyt's github Status](https://github-readme-stats.vercel.app/api?username=namnyang&show_icons=true&count_private=true&theme=gotham)
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=namnyang&langs_count=100&layout=compact&theme=gotham)
 
