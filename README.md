@@ -28,7 +28,7 @@
 
 <br>
 
-<h3 align="center"> ❕ Status ❕ </h3>
+<h3 align="center"> ❗️ Status ❗️ </h3>
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=namnyang&show_icons=true&count_private=true&theme=gotham&bg_color=0D1117"><br><br>
