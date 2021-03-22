@@ -3,6 +3,7 @@
 ## 깃허브 정보
 ![rldnyt's github Status](https://github-readme-stats.vercel.app/api?username=namnyang&show_icons=true&count_private=true&theme=react)<br>
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=namnyang&langs_count=100&theme=react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=namnyang&repo=github-readme-stats)](https://github.com/namnyang/namnyangpack)
 
 ## 링크
 + [디스코드]()
