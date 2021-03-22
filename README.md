@@ -1,6 +1,6 @@
 <p align="center">
   <img width="100px" src="https://namnyang.live/assets/img/sample/d.png" align="center" alt="namnyang" />
-  <h2 align="center">Hi there 🎉</h2>
+  <h1 align="center">Hi there 🎉</h2>
   <p align="center">Welcome to namnyang's Github!</p>
 </p>
 
@@ -8,9 +8,15 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamnyang&count_bg=%230A95FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false" alt="hits"/>
 </p>
 
+<p align="center">
+  <a href="/README_KR.md">한국어</a>
+    &nbsp;·&nbsp;
+  <a href="/README.md">English</a>
+</p>
+
 <br>
 
-<h2 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white&logo=Python" alt="python"/>
@@ -18,12 +24,6 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white&logo=HTML5" alt="html"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logoColor=white&logo=CSS3" alt="css"/>
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logoColor=white&logo=JavaScript" alt="js"/>
-</p>
-
-<p align="center">
-  <a href="/README_KR.md">한국어</a>
-    &nbsp;·&nbsp;
-  <a href="/README.md">English</a>
 </p>
 
 <br>
