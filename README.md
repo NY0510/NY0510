@@ -5,8 +5,8 @@
   
   <p align="center">
     <a href="/README_KR.md">한국어</a>
-    ·
-    <a href="/readme.md">English</a>
+    &nbsp;·&nbsp;
+    <a href="/README.md">English</a>
   </p>
 </p>
 
