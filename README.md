@@ -2,6 +2,12 @@
   <img width="100px" src="https://namnyang.live/assets/img/sample/d.png" align="center" alt="namnyang" />
   <h2 align="center">Hi there 🎉</h2>
   <p align="center">namnyang's github</p>
+  
+  <p align="center">
+    <a href="/README_KR.md">한국어</a>
+    ·
+    <a href="/readme.md">English</a>
+  </p>
 </p>
 
 ## 깃허브 정보
