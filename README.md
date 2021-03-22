@@ -1,6 +1,6 @@
 <p align="center">
   <img width="100px" src="https://namnyang.live/assets/img/sample/d.png" align="center" alt="namnyang" />
-  <h1 align="center">Hi there 🎉</h2>
+  <h1 align="center">Hi there 👋</h2>
   <p align="center">Welcome to namnyang's Github!</p>
 </p>
 
@@ -36,7 +36,12 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namnyang&langs_count=100&theme=gotham&layout=compact&bg_color=0D1117"><br><br>
 </p>
 
-## Links
-- [Discord](https://discord.com/users/690148325604720660)
-- [Email](mailto:namnyang0510@gmail.com)
-- [Web](https://namnyang.live)
+<br>
+
+<h3 align="center"> 🎉 ME 🎉 </h3>
+
+<p align="center">
+  <a href="https://discord.com/users/690148325604720660"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logoColor=white&logo=Discord" alt="Discord"/></a>
+  <a href="mailto:namnyang0510@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoColor=white&logo=CSS3" alt="Gmail"/></a>
+  <a href="https://namnyang.live"><img src="https://img.shields.io/badge/Web-4285F4?style=flat-square&logoColor=white&logo=Google Chrome" alt="web"/>
+</p>
