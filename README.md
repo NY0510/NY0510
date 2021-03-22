@@ -24,7 +24,9 @@
   <a href="/README.md">English</a>
 </p>
 
-## Status
+<br>
+
+<h3 align="center"> ❕ Status ❕ </h3>
 #### Github Status
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=namnyang&show_icons=true&count_private=true&theme=gotham&bg_color=0D1117" alt="github Status">
 
