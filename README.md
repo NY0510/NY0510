@@ -1,5 +1,5 @@
-<div style="border-radius: 70%; overflow: hidden;">
-  <img width="100px" src="https://avatars.githubusercontent.com/u/74480667?s=460&u=f15d6dbde5b6dc274ff3a69886ffc17dbdde5852&v=4" align="center" alt="GitHub Readme Stats" />
+<div align="center" style="border-radius: 70%; overflow: hidden;">
+  <img style="object-fit: cover;" width="100px" src="https://avatars.githubusercontent.com/u/74480667?s=460&u=f15d6dbde5b6dc274ff3a69886ffc17dbdde5852&v=4" align="center" alt="GitHub Readme Stats" />
 </div>
 <p align="center">
   <h2 align="center">GitHub Readme Stats</h2>
