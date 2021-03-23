@@ -19,11 +19,11 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white&logo=Python" alt="python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logoColor=white&logo=Java" alt="java"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white&logo=HTML5" alt="html"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logoColor=white&logo=CSS3" alt="css"/>
-  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logoColor=white&logo=JavaScript" alt="js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white&logo=Python" alt="python"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logoColor=white&logo=Java" alt="java"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white&logo=HTML5" alt="html"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logoColor=white&logo=CSS3" alt="css"/>&nbsp;
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logoColor=white&logo=JavaScript" alt="js"/>&nbsp;
 </p>
 
 <br>
@@ -41,7 +41,7 @@
 <h3 align="center"> 🎉 ME 🎉 </h3>
 
 <p align="center">
-  <a href="https://discord.com/users/690148325604720660"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logoColor=white&logo=Discord" alt="Discord"/></a>
-  <a href="mailto:namnyang0510@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logoColor=white&logo=CSS3" alt="Gmail"/></a>
-  <a href="https://namnyang.live"><img src="https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logoColor=white&logo=Google-Chrome" alt="web"/>
+  <a href="https://discord.com/users/690148325604720660"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logoColor=white&logo=Discord" alt="Discord"/></a>&nbsp;
+  <a href="mailto:namnyang0510@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logoColor=white&logo=CSS3" alt="Gmail"/></a>&nbsp;
+  <a href="https://namnyang.live"><img src="https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logoColor=white&logo=Google-Chrome" alt="web"/>&nbsp;
 </p>
