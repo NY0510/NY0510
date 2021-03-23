@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100px" src="https://namnyang.live/assets/img/sample/d.png" align="center" alt="namnyang" />
+  <img width="100px" src="/mooooooon_round.png" align="center" alt="namnyang" />
   <h1 align="center">Hi there 👋</h2>
   <p align="center">Welcome to namnyang's Github!</p>
 </p>
