@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="/README_KR.md">한국어</a>
-    <strong>&nbsp;·&nbsp;</strong>
+    &nbsp;·&nbsp;
   <a href="/README.md">English</a>
 </p>
 
