@@ -1,5 +1,5 @@
 <p align="center">
-  #<img width="120px" src="/mooooooon_round.png" align="center" alt="namnyang" />
+<!--   <img width="120px" src="/mooooooon_round.png" align="center" alt="namnyang" /> -->
   <h1 align="center">Hi there 👋</h2>
   <p align="center">Welcome to NY's Github!</p>
 </p>
