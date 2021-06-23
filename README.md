@@ -30,9 +30,7 @@
 
 <h1>
   Contact Me 
-  <a target="_blank">
-    <img src="Handshake.gif" height="32px" style="max-width:100%;">
-  </a>
+  <img src="Handshake.gif" height="32px" style="max-width:100%;">
 </h1>
 
 <a href="https://discord.com/users/690148325604720660"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logoColor=white&logo=Discord" alt="Discord"/></a>&nbsp;
