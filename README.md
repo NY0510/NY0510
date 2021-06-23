@@ -32,7 +32,7 @@
     <img src="Handshake.gif" height="32px" style="max-width:100%;">
   </h1>
 
-  <a href="https://discord.com/users/690148325604720660" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logoColor=white&logo=Discord" alt="Discord"/></a>&nbsp;
+  <a target="_blank" href="https://discord.com/users/690148325604720660"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logoColor=white&logo=Discord" alt="Discord"/></a>&nbsp;
   <a href="mailto:namnyang0510@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logoColor=white&logo=Gmail" alt="Gmail"/></a>&nbsp;
 
   ### Show some ❤️ by starring some of the repositories!
