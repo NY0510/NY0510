@@ -45,4 +45,3 @@
 
 **Last Edited**: 23/06/2021
 
-<div style='position:relative; padding-bottom:calc(66.67% + 44px)'><iframe src='https://gfycat.com/ifr/DifficultLimpingBubblefish' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p><a href="https://gfycat.com/discover/coding-gifs">from Coding GIFs</a></p>
