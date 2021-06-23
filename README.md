@@ -7,10 +7,10 @@
 <br/>
 <img align="right" height="250" width="400" alt="GIF" src="Programming.gif">
 
-- 🔭 I’m currently working on **Python**, **Node.js**, **JavaScript**, **Java**, and other **Web Developments**
-- 🌱 I’m currently learning Kotlin for Minecraft plugin
+- 🔭 I’m currently working on **Python, Node.js, JavaScript, Java, and other **Web Developments**
+- 🌱 I’m currently learning **Kotlin** for Minecraft plugin
 - 🤔 Programming is better than games. maybe
-- 💬 Ask me about Anything here!
+- 💬 Ask me about Anything [here](https://github.com/namnyang/namnyang/issues/1)!
 - ⚡ Fun fact : HTML is not programming language
 
 <br/>
