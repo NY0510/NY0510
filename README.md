@@ -7,20 +7,18 @@
 <br/>
 <img align="right" height="250" width="400" alt="GIF" src="Programming.gif">
 
-- asdf
-- asdf
-- asdfasdf
-- - asdf
-- asdf
-- asdfasdf
+- 🔭 I’m currently working on **Python**, **Node.js**, **JavaScript**, **Java**, and other **Web Developments**
+- 🌱 I’m currently learning Kotlin for Minecraft plugin
+- 🤔 Programming is better than games. maybe
+- 💬 Ask me about Anything here!
+- ⚡ Fun fact : HTML is not programming language
 
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/namnyang" alt="profile views"> &nbsp;
