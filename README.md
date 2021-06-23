@@ -27,9 +27,6 @@
 </p>
 
 <div align="center">
-  
-  <br/>
-
   <h1>
     Contact Me 
     <img src="Handshake.gif" height="32px" style="max-width:100%;">
