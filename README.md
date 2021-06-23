@@ -29,7 +29,6 @@
 <div align="center">
   
   <br/>
-  <br/>
 
   <h1>
     Contact Me 
