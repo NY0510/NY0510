@@ -43,9 +43,9 @@
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <a href="https://developer.android.com" target="_blank"> <img src="icons/android.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="css.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="icons/css.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="icons/html-5.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="javascript.svg" alt="icons/javascript" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="icons/javascript.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="icons/java.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.nginx.com/" target="_blank"> <img src="icons/nginx.svg" alt="nginx" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="icons/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
