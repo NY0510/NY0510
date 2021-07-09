@@ -40,6 +40,7 @@
   <a href="https://discord.com/users/690148325604720660" target="_blank"> <img src="icons/discord.svg" alt="discord" width="33" height="33"/> </a> &nbsp;
   <a href="https://www.youtube.com/channel/UCbPHBnYHcUYcWfpIEtn60WA" target="_blank"> <img src="icons/youtube.svg" alt="youtube" width="33" height="33"/> </a> &nbsp;
   <a href="https://www.facebook.com/namnyang0510" target="_blank"> <img src="icons/facebook.svg" alt="facebook" width="33" height="33"/> </a> &nbsp;
+  <a href="https://www.instagram.com/nyny0510_/" target="_blank"> <img src="icons/instagram.svg" alt="instagram" width="33" height="33"/> </a> &nbsp;
   <a href="mailto:namnyang0510@gmail.com" target="_blank"> <img src="icons/email.svg" alt="email" width="33" height="33"/> </a> &nbsp;
 </div>
 
