@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello, World!
+  Hello, World!&nbsp;
   <img src="Hi.gif" width="40px" />
 </h1>
 
