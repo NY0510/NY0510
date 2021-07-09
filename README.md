@@ -22,7 +22,7 @@
 
 <p align="center">
 <!--   <img src="https://gpvc.arturio.dev/ny0510" alt="profile views"> &nbsp; -->
-  <img src="https://komarev.com/ghpvc/?username=ny0510&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ny0510&label=Profile%20views&color=4BC51D&style=flat" alt="profile views" /> &nbsp;
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/ny0510?label=Followers&style=social"> &nbsp;
   <img src="https://img.shields.io/github/stars/ny0510?label=Stars" alt="Total Stars"> &nbsp;
 </p>
