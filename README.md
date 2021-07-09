@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Python, Node.js, Java, and other Web Developments**
 - 🌱 I’m currently learning **Kotlin** for Minecraft plugin
 - 🤔 Programming is better than games. maybe
-- 💬 Ask me about anything **[here](https://github.com/namnyang/namnyang/issues/1)!**
+- 💬 Ask me about anything **[HERE](https://github.com/namnyang/namnyang/issues/1)!**
 - ⚡ Fun fact : **HTML is not programming language**
 
 <br/>
