@@ -41,7 +41,7 @@
 
 <br/>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Languages And Tools</h2>
 <p align="center">
   <a href="https://developer.android.com" target="_blank"> <img src="icons/android.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="icons/css.svg" alt="css3" width="40" height="40"/> </a>
