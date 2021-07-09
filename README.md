@@ -31,7 +31,7 @@
 
 <div align="center">
   <h2>
-    Contact Me 
+    Contact Me
     <img src="Handshake.gif" height="32px" style="max-width:100%;">
   </h2>
 
