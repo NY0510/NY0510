@@ -53,9 +53,9 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img src="icons/html-5.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="icons/javascript.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.java.com" target="_blank"> <img src="icons/java.svg" alt="java" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.nginx.com/" target="_blank"> <img src="icons/nginx.svg" alt="nginx" width="40" height="40"/> </a> &nbsp;
   <a href="https://nodejs.org" target="_blank"> <img src="icons/nodejs.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.python.org" target="_blank"> <img src="icons/python.svg" alt="python" width="40" height="40"/> </a> &nbsp; &nbsp;
+  <a href="https://www.nginx.com/" target="_blank"> <img src="icons/nginx.svg" alt="nginx" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.photoshop.com/" target="_blank"> <img src="icons/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.adobe.com/products/premiere" target="_blank"> <img src="icons/adobe-premiere-pro.svg" alt="premiere" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.adobe.com/products/aftereffect" target="_blank"> <img src="icons/adobe-after-effects.svg" alt="aftereffect" width="40" height="40"/> </a> &nbsp;
@@ -64,5 +64,5 @@
 
 **Credits**: [NY0510](https://github.com/NY0510/)
 
-**Last Edited**: 09/07/2021
+**Last Edited**: 24/10/2021
 
