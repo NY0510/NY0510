@@ -6,7 +6,7 @@
 <br>
 
 <h1> Hi There &nbsp; <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
-<div> I'm a 15 Year Old <b>Student Developer</b> from South Korea! </div>
+<div> I'm a 16 Year Old <b>Student Developer</b> from South Korea! </div>
 
 <!-- ================================================================================================================================== -->
 <br>
