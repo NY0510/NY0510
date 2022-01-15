@@ -70,11 +70,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 January, 2022 - 13 January, 2022
+Week: 08 January, 2022 - 14 January, 2022
 
-Java         12 mins         ██████████░░░░░░░░░░░░░░░   39.44 % 
-YAML         7 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.16 % 
-JavaScript   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Other        4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Java         12 mins         ██████████▒░░░░░░░░░░░░░░   40.81 % 
+YAML         7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.03 % 
+JavaScript   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Other        4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 ```
 <!--END_SECTION:waka-->
