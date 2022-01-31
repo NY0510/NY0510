@@ -70,12 +70,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2022 - 29 January, 2022
+Week: 24 January, 2022 - 30 January, 2022
 
-JSON         46 mins         ████████▓░░░░░░░░░░░░░░░░   34.93 % 
-JavaScript   40 mins         ███████▓░░░░░░░░░░░░░░░░░   30.70 % 
-CSS          25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.88 % 
-HTML         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-PowerShell   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+JSON         46 mins         ███████████▒░░░░░░░░░░░░░   45.69 % 
+JavaScript   40 mins         ██████████░░░░░░░░░░░░░░░   40.28 % 
+PowerShell   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Text         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 ```
 <!--END_SECTION:waka-->
