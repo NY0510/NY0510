@@ -70,7 +70,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 January, 2022 - 01 February, 2022
+Week: 27 January, 2022 - 02 February, 2022
 
 JSON         2 hrs 51 mins   ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
 Markdown     2 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.60 % 
