@@ -53,13 +53,13 @@
 <a href="https://www.youtube.com/channel/UCbPHBnYHcUYcWfpIEtn60WA" target="_blank">
   <img src="https://img.shields.io/badge/-Youtube-FF0000?logo=Youtube&logoColor=FFFFFF" alt="Youtube"/>
 </a> &nbsp;
-<a href="mailto:namnyang0510@gmail.com" target="_blank">
+<a href="mailto:me@ny64.kr" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-E74235?logo=gmail&logoColor=FFFFFF" alt="Gmail"/>
 </a> &nbsp;
 <a href="https://www.instagram.com/nyny0510_" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=FFFFFF" alt="Instagram"/>
 </a> &nbsp;
-<a href="https://blog.namnyang.live" target="_blank">
+<a href="https://blog.ny64.kr" target="_blank">
   <img src="https://img.shields.io/badge/-WebSite-blue?logo=google-chrome&logoColor=FFFFFF" alt="Blog"/>
 </a>&nbsp;
 
