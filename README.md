@@ -71,13 +71,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 March 2022 - To: 18 March 2022
+From: 12 March 2022 - To: 19 March 2022
 
-YAML                1 hr 48 mins    ███████▓░░░░░░░░░░░░░░░░░   30.29 %
-Bash                1 hr 26 mins    ██████░░░░░░░░░░░░░░░░░░░   24.01 %
-HTML                1 hr 2 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
-Properties          29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-Other               28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+YAML                       2 hrs 44 mins   ████████▒░░░░░░░░░░░░░░░░   33.47 %
+Bash                       1 hr 26 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
+Other                      1 hr 18 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
 ```
 
 <!--END_SECTION:waka-->
