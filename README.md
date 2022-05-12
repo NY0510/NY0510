@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/-Youtube-FF0000?logo=Youtube&logoColor=FFFFFF" alt="Youtube"/>
 </a> &nbsp;
 <a href="mailto:me@ny64.kr" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-E74235?logo=gmail&logoColor=FFFFFF" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/-Email-E74235?logo=gmail&logoColor=FFFFFF" alt="Email"/>
 </a> &nbsp;
 <a href="https://www.instagram.com/ny64_" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=FFFFFF" alt="Instagram"/>
