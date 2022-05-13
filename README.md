@@ -71,11 +71,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 May 2022 - To: 11 May 2022
+From: 05 May 2022 - To: 12 May 2022
 
-JavaScript                 1 hr 17 mins    ██████████████████░░░░░░░   72.02 %
-Java                       18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.77 %
-Other                      9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+JavaScript                 3 hrs 40 mins   ████████████████████░░░░░   79.52 %
+Markdown                   22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+Other                      20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
 ```
 
 <!--END_SECTION:waka-->
