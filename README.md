@@ -5,13 +5,15 @@
 <hr>
 <br>
 
-<h1> Hi There &nbsp; <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<h1> Hi There &nbsp;  </h1>
+<!-- <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> -->
 <div> I'm a 16 Years Old <b>Student Developer</b> from South Korea! </div>
 
 <!-- ================================================================================================================================== -->
 <br>
 
-<h2> Skills &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px> </h2>
+<h2> Skills &nbsp;</h2>
+<!--  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px>  -->
 
 | | |
 |:---|:---|
