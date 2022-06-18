@@ -46,8 +46,8 @@
 
 <!-- ================================================================================================================================== -->
 <br>
-
-<h2> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px"> </h2>
+<!-- <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px">  -->
+<h2> Connect With Me </h2>
 
 <a href="https://discord.com/users/690148325604720660" target="_blank">
   <img src="https://img.shields.io/badge/-Discord-5662F6?logo=Discord&logoColor=FFFFFF" alt="Discord"/>
