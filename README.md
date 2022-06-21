@@ -73,7 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 June 2022 - To: 19 June 2022
+From: 13 June 2022 - To: 20 June 2022
 
 Dart             11 hrs 5 mins   ██████████████████▓░░░░░░   74.90 %
 JavaScript       2 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
