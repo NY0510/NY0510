@@ -47,6 +47,7 @@ Hello, I'm a student developer 🌙
 ![Node.js](https://img.shields.io/badge/Node.js--0074D9?logo=Node.js&logoColor=FFFFFF)
 ![Express](https://img.shields.io/badge/Express--52BBE6?logo=Express&logoColor=FFFFFF)
 ![Flask](https://img.shields.io/badge/Flask--005571?logo=Flask&logoColor=FFFFFF)
+![BootStrap](https://img.shields.io/badge/Bootstrap--7952B3?logo=Bootstrap&logoColor=FFFFFF)
 
 ## Design
 
