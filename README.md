@@ -1,86 +1,62 @@
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/NY0510/NY0510/main/cover-img.png" alt="cover" />
-</div>
+### Hi There! 👋
 
-<hr>
-<br>
+# 안녕하세요! 계속해서 성장해 나가고 있는 중학생 개발자, <b>김가온</b> 입니다
 
-<h1> Hi There &nbsp;  </h1>
-<!-- <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> -->
-<div> I'm a 16 Years Old <b>Student Developer</b> from South Korea! </div>
-
-<!-- ================================================================================================================================== -->
-<br>
-
-<h2> Skills &nbsp;</h2>
-<!--  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px>  -->
-
-| | |
-|:---|:---|
-| **Programming** | <a href="#"> <img align='center' src="https://img.shields.io/badge/Java--007396?logo=java&logoColor=FFFFFF"> </a> <a href="#"> <img align='center' src="https://img.shields.io/badge/Python--3776AB?logo=Python&logoColor=FFFFFF"> </a> <a href="#"> <img align='center' src="https://img.shields.io/badge/C--A8B9CC?logo=C&logoColor=FFFFFF"> </a> |
-| **Frontend** | <a href="#"> <img align='center' src="https://img.shields.io/badge/HTML5--E34F26?logo=HTML5&logoColor=FFFFFF"> </a> <a href="#"> <img align='center' src="https://img.shields.io/badge/CSS3--1572B6?logo=CSS3&logoColor=FFFFFF"> </a> <a href="#"> <img align='center' src="https://img.shields.io/badge/Sass--CC6699?logo=Sass&logoColor=FFFFFF"> </a> <a href="#"> <img align='center' src="https://img.shields.io/badge/JavaScript--F7DF1E?logo=JavaScript&logoColor=FFFFFF"> </a> |
-| **Backend** | <a href="#"> <img align='center' src="https://img.shields.io/badge/NGINX--009639?logo=NGINX&logoColor=FFFFFF"> </a> <a href="#"> <img align='center' src="https://img.shields.io/badge/Express--242424?logo=Express&logoColor=FFFFFF"> </a> <a href="#"> <img align='center' src="https://img.shields.io/badge/Node.js--339933?logo=Node.js&logoColor=FFFFFF"> </a> |
-| **Framework** | <a href="#"> <img align='center' src="https://img.shields.io/badge/Flask--c31344?logo=Flask&logoColor=FFFFFF"> </a> <a href="#"> <img align='center' src="https://img.shields.io/badge/Django--092E20?logo=Django&logoColor=FFFFFF"> </a> <a href="#"> <img align='center' src="https://img.shields.io/badge/Electron--47848F?logo=Electron&logoColor=FFFFFF"> </a> |
-| **Software** | <a href="#"> <img align='center' src="https://img.shields.io/badge/Adobe%20Photoshop--31A8FF?logo=Adobe%20Photoshop&logoColor=FFFFFF"> </a> <a href="#"> <img align='center' src="https://img.shields.io/badge/Adobe%20Premiere%20Pro--9999FF?logo=Adobe%20Premiere%20Pro&logoColor=FFFFFF"> </a> <a href="#"> <img align='center' src="https://img.shields.io/badge/Adobe%20After%20Effects--4b4be3?logo=Adobe%20After%20Effects&logoColor=FFFFFF"> </a> |
-
-<!-- <a href="#"> <img src="https://img.shields.io/badge/Java--007396?logo=java&logoColor=FFFFFF"> </a>
-<a href="#"> <img src="https://img.shields.io/badge/Python--3776AB?logo=Python&logoColor=FFFFFF"> </a>
-<a href="#"> <img src="https://img.shields.io/badge/C--A8B9CC?logo=C&logoColor=FFFFFF"> </a>
-<br>
-<a href="#"> <img src="https://img.shields.io/badge/HTML5--E34F26?logo=HTML5&logoColor=FFFFFF"> </a>
-<a href="#"> <img src="https://img.shields.io/badge/CSS3--1572B6?logo=CSS3&logoColor=FFFFFF"> </a>
-<a href="#"> <img src="https://img.shields.io/badge/JavaScript--F7DF1E?logo=JavaScript&logoColor=FFFFFF"> </a>
-<a href="#"> <img src="https://img.shields.io/badge/Sass--CC6699?logo=Sass&logoColor=FFFFFF"> </a>
-<br>
-<a href="#"> <img src="https://img.shields.io/badge/NGINX--009639?logo=NGINX&logoColor=FFFFFF"> </a>
-<a href="#"> <img src="https://img.shields.io/badge/Express--242424?logo=Express&logoColor=FFFFFF"> </a>
-<a href="#"> <img src="https://img.shields.io/badge/Node.js--339933?logo=Node.js&logoColor=FFFFFF"> </a>
-<br>
-<a href="#"> <img src="https://img.shields.io/badge/Flask--c31344?logo=Flask&logoColor=FFFFFF"> </a>
-<a href="#"> <img src="https://img.shields.io/badge/Django--092E20?logo=Django&logoColor=FFFFFF"> </a>
-<a href="#"> <img src="https://img.shields.io/badge/Electron--47848F?logo=Electron&logoColor=FFFFFF"> </a>
-<br>
-<a href="#"> <img src="https://img.shields.io/badge/Adobe%20Photoshop--31A8FF?logo=Adobe%20Photoshop&logoColor=FFFFFF"> </a>
-<a href="#"> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro--9999FF?logo=Adobe%20Premiere%20Pro&logoColor=FFFFFF"> </a>
-<a href="#"> <img src="https://img.shields.io/badge/Adobe%20After%20Effects--4b4be3?logo=Adobe%20After%20Effects&logoColor=FFFFFF"> </a> -->
-
-<!-- ================================================================================================================================== -->
-<br>
-<!-- <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px">  -->
-<h2> Connect With Me </h2>
-
-<a href="https://discord.com/users/690148325604720660" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-5662F6?logo=Discord&logoColor=FFFFFF" alt="Discord"/>
-</a> &nbsp;
-<a href="https://www.youtube.com/channel/UCbPHBnYHcUYcWfpIEtn60WA" target="_blank">
-  <img src="https://img.shields.io/badge/-Youtube-FF0000?logo=Youtube&logoColor=FFFFFF" alt="Youtube"/>
-</a> &nbsp;
-<a href="mailto:me@ny64.kr" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-E74235?logo=gmail&logoColor=FFFFFF" alt="Email"/>
-</a> &nbsp;
-<a href="https://www.instagram.com/ny64_" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=FFFFFF" alt="Instagram"/>
-</a> &nbsp;
-<a href="https://blog.ny64.kr" target="_blank">
-  <img src="https://img.shields.io/badge/-WebSite-blue?logo=google-chrome&logoColor=FFFFFF" alt="Blog"/>
-</a>&nbsp;
-
-<!-- ================================================================================================================================== -->
-<br><br>
-
-<h2> Stuff I Worked On Last Week 🕐 </h2>
-
-<!--START_SECTION:waka-->
-
-```text
-From: 15 June 2022 - To: 22 June 2022
-
-Dart             11 hrs 9 mins   █████████████████████▒░░░   84.84 %
-JavaScript       58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-Markdown         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Text             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Bash             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-JSON             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+```
+Hello, I'm a student developer 🌙
 ```
 
-<!--END_SECTION:waka-->
+# Profile
+
+-   옥길중학교 3학년 재학중
+-   _<p style='color:gray'>선린인터넷 고등학교 소프트웨어과 준비중</p>_
+
+# Ability
+
+-   웹
+-   앱
+-   백엔드
+-   프론트엔드
+-   네트워크
+-   데이터베이스
+
+## Lanage
+
+![JAVA](https://img.shields.io/badge/Java--007396?logo=java&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python--3776AB?logo=Python&logoColor=FFFFFF)
+![C](https://img.shields.io/badge/C--A8B9CC?logo=C&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5--E34F26?logo=HTML5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3--0074D9?logo=CSS3&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript--F7DF1E?logo=JavaScript&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js--0074D9?logo=Node.js&logoColor=FFFFFF)
+![Dart](https://img.shields.io/badge/Dart--0074D9?logo=Dart&logoColor=FFFFFF)
+
+## App
+
+![JAVA](https://img.shields.io/badge/Java--007396?logo=java&logoColor=FFFFFF)
+![Flutter](https://img.shields.io/badge/Flutter--0074D9?logo=Flutter&logoColor=FFFFFF)
+![Android](https://img.shields.io/badge/Android--3DDC84?logo=Android&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/Firebase--FFCA28?logo=Firebase&logoColor=FFFFFF)
+
+## Web
+
+![HTML5](https://img.shields.io/badge/HTML5--E34F26?logo=HTML5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3--0074D9?logo=CSS3&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript--F7DF1E?logo=JavaScript&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/Firebase--FFCA28?logo=Firebase&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js--0074D9?logo=Node.js&logoColor=FFFFFF)
+![Express](https://img.shields.io/badge/Express--0074D9?logo=Express&logoColor=FFFFFF)
+
+## Design
+
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop--31A8FF?logo=Adobe-Photoshop&logoColor=FFFFFF)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro--9999FF?logo=Adobe%20Premiere%20Pro&logoColor=FFFFFF)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects--4b4be3?logo=Adobe%20After%20Effects&logoColor=FFFFFF)
+
+## Github Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NY0510&theme=dark&hide_border=true&layout=compact)
+
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NY0510&theme=tokyonight&hide_border=true&layout=compact)
+
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NY0510&theme=radical&hide_border=true&layout=compact)
