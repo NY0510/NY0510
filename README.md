@@ -55,8 +55,10 @@ Hello, I'm a student developer 🌙
 
 ## Github Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NY0510&theme=dark&hide_border=true&layout=compact)
-
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NY0510&theme=tokyonight&hide_border=true&layout=compact)
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NY0510&theme=radical&hide_border=true&layout=compact)
+## WakaTime
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
