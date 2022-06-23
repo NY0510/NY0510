@@ -20,7 +20,7 @@ Hello, I'm a student developer 🌙
 -   네트워크
 -   데이터베이스
 
-## Lanage
+## Language
 
 ![JAVA](https://img.shields.io/badge/Java--007396?logo=java&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/Python--3776AB?logo=Python&logoColor=FFFFFF)
