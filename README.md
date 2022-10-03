@@ -8,7 +8,7 @@ Hello, I'm a student developer 🌙
 
 # Profile
 
--   옥길중학교 3학년 재학중
+-   옥길중학교 3학년 재학중 => 인천아라중학교 전학
 -   _<p style='color:gray'>선린인터넷 고등학교 소프트웨어과 준비중</p>_
 
 # Ability
