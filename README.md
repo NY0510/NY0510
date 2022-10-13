@@ -64,9 +64,9 @@ Hello, I'm a student developer 🌙
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 October 2022 - To: 11 October 2022
+From: 05 October 2022 - To: 12 October 2022
 
-Other        1 hr 35 mins    ███████████████████░░░░░░   75.47 %
+Other        1 hr 35 mins    █████████████████▒░░░░░░░   69.37 %
 ```
 
 <!--END_SECTION:waka-->
