@@ -1,6 +1,6 @@
 ### Hi There! 👋
 
-# 안녕하세요! 계속해서 성장해 나가고 있는 중학생 개발자, <b>김가온</b> 입니다
+# 안녕하세요! 계속해서 성장해 나가고 있는 작은 학생 개발자, <b>김가온</b> 입니다
 
 ```
 Hello, I'm a student developer 🌙
@@ -9,7 +9,7 @@ Hello, I'm a student developer 🌙
 # Profile
 
 -   옥길중학교 3학년 재학중 => 인천아라중학교 전학
--   _<p style='color:gray'>선린인터넷 고등학교 소프트웨어과 준비중</p>_
+-   선린인터넷고등학교 소프트웨어과 합격
 
 # Ability
 
@@ -33,7 +33,7 @@ Hello, I'm a student developer 🌙
 
 ## App
 
-![JAVA](https://img.shields.io/badge/Java--007396?logo=java&logoColor=FFFFFF)
+![JAVA](https://img.shields.io/badge/Java--007396?logo=Java&logoColor=FFFFFF)
 ![Flutter](https://img.shields.io/badge/Flutter--0074D9?logo=Flutter&logoColor=FFFFFF)
 ![Android](https://img.shields.io/badge/Android--3DDC84?logo=Android&logoColor=FFFFFF)
 ![Firebase](https://img.shields.io/badge/Firebase--FFCA28?logo=Firebase&logoColor=FFFFFF)
