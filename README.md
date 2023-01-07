@@ -64,7 +64,7 @@ Hello, I'm a student developer 🌙
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 December 2022 - To: 05 January 2023
+From: 30 December 2022 - To: 06 January 2023
 
 JavaScript   3 hrs 43 mins   ████████████████████▒░░░░   80.69 %
 HTML         18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
