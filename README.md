@@ -64,7 +64,7 @@ Hello, I'm a student developer 🌙
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 January 2023 - To: 09 January 2023
+From: 03 January 2023 - To: 10 January 2023
 
 YAML                       15 mins         ██████████████░░░░░░░░░░░   56.53 %
 Properties                 7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
