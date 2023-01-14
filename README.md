@@ -64,7 +64,7 @@ Hello, I'm a student developer 🌙
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 January 2023 - To: 12 January 2023
+From: 06 January 2023 - To: 13 January 2023
 
 Other                      4 mins          ██████████████████████░░░   87.47 %
 ```
