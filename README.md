@@ -19,7 +19,7 @@ Hello, I'm a student developer 🌙
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 January 2023 - To: 19 January 2023
+From: 13 January 2023 - To: 20 January 2023
 
 JavaScript       50 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.48 %
 Kotlin           46 mins         █████░░░░░░░░░░░░░░░░░░░░   20.38 %
