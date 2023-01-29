@@ -13,9 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 January 2023 - To: 27 January 2023
+From: 21 January 2023 - To: 28 January 2023
 
-Other        35 mins         ██████████████████▓░░░░░░   74.63 %
+JavaScript   6 mins          ████████████████████░░░░░   80.65 %
+JSON         1 min           █████░░░░░░░░░░░░░░░░░░░░   19.35 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
