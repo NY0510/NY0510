@@ -13,10 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 January 2023 - To: 31 January 2023
+From: 25 January 2023 - To: 01 February 2023
 
-JSON    1 min           █████████████████████████   100.00 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript   40 mins         ██████████████████▒░░░░░░   73.96 %
+Bash         12 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.31 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
