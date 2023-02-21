@@ -13,12 +13,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 February 2023 - To: 19 February 2023
+From: 13 February 2023 - To: 20 February 2023
 
-Markdown                   1 hr 1 min      ███████░░░░░░░░░░░░░░░░░░   28.22 %
-JavaScript                 55 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.54 %
-Java                       51 mins         ██████░░░░░░░░░░░░░░░░░░░   23.61 %
-Other                      18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+Java                       1 hr 11 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
+JavaScript                 1 hr 9 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.32 %
+Markdown                   1 hr 1 min      ████▓░░░░░░░░░░░░░░░░░░░░   18.86 %
+Properties                 38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+YAML                       25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+Other                      18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
 ```
 
 <!--END_SECTION:waka-->
