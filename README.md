@@ -13,13 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 February 2023 - To: 21 February 2023
+From: 15 February 2023 - To: 22 February 2023
 
-Java                       1 hr 11 mins    ███████░░░░░░░░░░░░░░░░░░   27.35 %
-JavaScript                 1 hr 9 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.69 %
-Properties                 38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
-YAML                       25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-Other                      18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+JavaScript       1 hr 22 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.53 %
+Java             1 hr 11 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.23 %
+Properties       38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
+Other            35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
 ```
 
 <!--END_SECTION:waka-->
