@@ -13,11 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 February 2023 - To: 23 February 2023
+From: 17 February 2023 - To: 24 February 2023
 
-JavaScript       1 hr 22 mins    ██████░░░░░░░░░░░░░░░░░░░   24.46 %
-Java             1 hr 11 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
-Other            49 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
+Other            48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
 ```
 
 <!--END_SECTION:waka-->
