@@ -13,11 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 April 2023 - To: 03 May 2023
+From: 27 April 2023 - To: 04 May 2023
 
-JavaScript   2 hrs 22 mins   ████████████▓░░░░░░░░░░░░   51.26 %
-TOML         35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
-Other        35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
+JavaScript   2 hrs 20 mins   █████████████▒░░░░░░░░░░░   53.66 %
+JSON         36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
+TOML         35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
+Other        35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
 ```
 
 <!--END_SECTION:waka-->
