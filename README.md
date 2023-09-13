@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2023 - To: 11 September 2023
+From: 05 September 2023 - To: 12 September 2023
 
-JavaScript            1 hr 15 mins    ███████░░░░░░░░░░░░░░░░░░   27.46 %
-Python                1 hr 6 mins     ██████░░░░░░░░░░░░░░░░░░░   24.40 %
-CSS                   43 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
-C                     31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-HTML                  23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+JavaScript            2 hrs 23 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.99 %
+CSS                   2 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
+HTML                  2 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   19.60 %
+Ezhil                 1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
+Python                1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
 ```
 
 <!--END_SECTION:waka-->
