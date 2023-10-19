@@ -13,13 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2023 - To: 18 October 2023
+From: 18 September 2023 - To: 18 October 2023
 
-YAML              36 mins         ███████░░░░░░░░░░░░░░░░░░   27.46 %
-Python            22 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
-Other             20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
-V                 19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
-C                 18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
+Total Time: 31 hrs 53 mins
+
+JavaScript                 16 hrs 59 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.57 %
+C                          3 hrs 32 mins   ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.97 %
+HTML                       2 hrs 48 mins   ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.68 %
+Markdown                   2 hrs 37 mins   ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.14 %
+TypeScript                 2 hrs 7 mins    ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.59 %
 ```
 
 <!--END_SECTION:waka-->
