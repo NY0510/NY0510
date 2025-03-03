@@ -1,6 +1,7 @@
-## Hi There! 👋
+## 안녕하세요 👋 🍤 🦔
 
 -   선린인터넷고 118기 소프트웨어과
+-   리눅스마스터 2급
 
 <!-- ## Github Stats
 
@@ -8,6 +9,7 @@
 -->
 
 ## WakaTime
+
 <!--START_SECTION:waka-->
 
 ```txt
